@@ -37,6 +37,9 @@
 	div#header {
 		background-size: cover;
 	}
+	input, button, textarea {
+		width: 60%;
+	}
 	.accordion {
 		box-shadow: none !important;
 	}
