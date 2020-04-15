@@ -71,10 +71,12 @@ h3.display-4 {
     color: white;
 }
 input, textarea, button {
-    width: 60%;
+    width: 90%;
     padding: 10px;
     margin: 3%;
 }
+textarea {
+    height: 200px;
 button {
     background-color: #1DBF73;
     color: white;
